@@ -1,2 +1,9 @@
 # General-Programming-Questions
-This goal of this repository is to help individuals find easily understood answers to commonly asked programming questions
+What is in this repository? <br/>
+  This repository holds general programming questions and descriptive, easily understood, answers.<br/>
+The objective?  <br/>
+  To provide individuals with easily understood answers to commonly asked programming questions. <br/>
+# Questions Answered
+  null
+# Questions Pending
+  null
