@@ -4,6 +4,6 @@ What is in this repository? <br/>
 The objective?  <br/>
   To provide individuals with easily understood answers to commonly asked programming questions. <br/>
 # Questions Answered
-  null
+  none
 # Questions Pending
-  null
+  none
