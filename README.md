@@ -8,7 +8,9 @@ The objective?  <br/>
   What is Prim's algorithm, where is it applicable and how is it implemented? <br/>
   Answer: PrimsMinimumSpanningTreeAlgorithm.java <br/>
   What is Binary Search, how does it work and how is it implemented? <br/>
-  Answer: BinarySearch.java
+  Answer: BinarySearch.java <br/>
+  What is Dijkstra's algorthm how does it work and what is it's general implementation? <br/>
+  Answer: DijkstrasAlgorithm.java
   
 # Questions Pending
   none
