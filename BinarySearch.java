@@ -1,3 +1,5 @@
+//TODO Rewrite
+
 /*
     Binary Search is a fundamental algorithm used to efficiently locate a target value in a sorted array of values.
     The algorithm is composed of a cycle, an action followed by a check, and runs in tell the desired value is located in the array.
